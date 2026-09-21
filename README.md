@@ -97,6 +97,19 @@ Analyzed:
 Analyzed transaction patterns to understand when customers place orders and identify periods of high demand.
 
 ---
+## ❓ Business Questions
+
+This analysis aims to answer the following business questions:
+
+1. What is the overall sales performance?
+2. Which months generate the highest revenue?
+3. What are the peak sales hours?
+4. Which days have the highest sales?
+5. Which store performs the best?
+6. Which products are the top sellers?
+7. Which products contribute the most to revenue?
+8. When is customer demand the highest?
+9. How can staffing and inventory planning be improved?
 
 ## 📊 Dashboard Features
 
@@ -158,6 +171,27 @@ Coffee-Shop-Sales-Analysis/
 ```
 
 ---
+## 🔄 Analysis Workflow
+
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Data Transformation using Power Query
+   ↓
+Calculated Fields
+   ↓
+PivotTables
+   ↓
+PivotCharts
+   ↓
+KPI Analysis
+   ↓
+Interactive Dashboard
+   ↓
+Business Insights
+   ↓
+Recommendations
 
 ## 👨‍💻 Skills Demonstrated
 
